@@ -1,3 +1,3 @@
 print("Hello, World!")
 print(("How are you?"))
-123
+print("123")
